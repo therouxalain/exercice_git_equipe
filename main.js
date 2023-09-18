@@ -1,3 +1,3 @@
-// Auteur : Jonathan Martel
+// Auteur : Alain Théroux
 console.log("test")
 
